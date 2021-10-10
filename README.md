@@ -1,2 +1,1 @@
-# 3.sinif
-hazırlık
+Java ie ilgili çalışmalarım ve projelerimin bulunduğu alandır.
